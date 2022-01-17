@@ -20,7 +20,7 @@
 <p align="left">
   <a href="https://tanishkaggarwal.ml/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF7C1F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" height="35" /></a>
     <a href="mailto:tanishkaggarwal007@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" height="35" /></a>
-  <a href="https://linkedin.com/in/tanishk-aggarwal-593b4316b target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="35" /></a>
+  <a href="https://www.linkedin.com/in/tanishk-aggarwal-593b4316b/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="35" /></a>
   <a href="https://t.me/TanishkAggarwal" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" height="35" /></a>
 <!--    <a href="https://discordapp.com/users/767689142799695904/" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-39E09B?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="35" /></a> -->
 </p>
