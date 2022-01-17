@@ -18,11 +18,13 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
-
-<a href="https://www.linkedin.com/in/tanishk-aggarwal-593b4316b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
-
-<a href = 'https://www.github.com/Tanishk007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  <a href="https://tanishkaggarwal.ml/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF7C1F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" height="35" /></a>
+    <a href="mailto:tanishkaggarwal007@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" height="35" /></a>
+  <a href="https://linkedin.com/in/tanishk-aggarwal-593b4316b target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="35" /></a>
+  <a href="https://t.me/TanishkAggarwal" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" height="35" /></a>
+<!--    <a href="https://discordapp.com/users/767689142799695904/" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-39E09B?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="35" /></a> -->
 </p>
+
 
 
 <h3 align="left">Languages and Tools:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
