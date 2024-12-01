@@ -3,11 +3,11 @@
 
 
 <h1  align="center"> Hi, I am Tanishk Aggarwal  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<h3 align="center">A passionate front end developer from India</h3>
+<h3 align="center">A passionate Back End developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanishk007&label=Profile%20views&color=0e75b6&style=flat" alt="Tanishk Aggarwal " /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Spring Framework and Service Now Development**
 
 - 👨‍💻 All of my projects are available at [https://tanishkaggarwal.ml//](https://tanishkaggarwal.ml/)
 
